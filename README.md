@@ -30,8 +30,8 @@ Step 7: Save and run the application.
 ```
 /*
 Program to print the list of item.
-Developed by: 212222040013
-Registeration Number : ARPAN BARDHAN
+Developed by: 212221040124
+Registeration Number : PRADEESH  KUMAR S
 */
 ```
 ## MAIN_ACTIVITY.JAVA
